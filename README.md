@@ -2,7 +2,7 @@
 
 ## 1 About
 
-This directory contains a set of TeX files which, when compiled into a PDF, the paper **The Formation of Extractive Structures in Networks**. The paper provides an analysis of central and critical nodes within a general network topology.
+This directory contains a set of TeX files which, when compiled into a PDF, the paper **The Formation of Extractive Structures in Networks**. The paper provides an analysis of central and critical nodes within a general network topology. The full paper can be found in [`BlockFormation.pdf`](./BlockFormation.pdf).
 
 ### 1.1 Abstract
 
